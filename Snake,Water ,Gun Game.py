@@ -4,7 +4,7 @@ pts 0
 print("\nWELCOME TO SNAKE,WATER,GUN GAME\n")
 print("Choi , water , gun")
 
-while6):
+while6):1
     var = input("\nYour choice\n")
     lst = ["snake", "water", "gun"]
     a = random.choice(lst)
